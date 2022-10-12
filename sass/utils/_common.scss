@@ -1,0 +1,38 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+ul {
+    padding-left: 0;
+}
+
+img {
+    display: block;
+}
+.section {
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.list {
+    list-style: none;
+}
+
+.links:hover,
+.links:focus {
+    color: var(--logo-color);
+
+}
